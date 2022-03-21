@@ -1,0 +1,31 @@
+.row
+{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-2
+{
+    flex-basis: 50%;
+    min-width: 18.75rem;
+}
+.col-2 img{
+    max-width: 100%;
+    padding: 3.2rem 0;
+    
+
+
+}
+.col-2 h1{
+    font-size: 3.2rem;
+    line-height: 60px;
+    margin: 25px 0;
+}
+.cover-content{
+    margin-bottom: 25rem;
+}
+p{
+    font-weight: 500;
+    font-size: 1.5rem;
+}

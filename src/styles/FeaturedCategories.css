@@ -1,0 +1,33 @@
+.categories{
+    margin: 5rem 0;
+}
+.col-3{
+    flex-basis: 30%;
+    min-width:16rem;
+    margin-bottom: 2rem;
+}
+.col-3 img{
+    width: 100%;
+    cursor: pointer;
+    opacity: 0.9;
+    
+}
+.small-container
+{
+    max-width: 75rem;
+    margin: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.content{
+    text-align: center;
+    margin: 2rem;
+}
+.img-tag{
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 500;
+    font-style: italic;
+
+    
+}
